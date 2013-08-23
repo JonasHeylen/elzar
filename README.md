@@ -12,7 +12,7 @@ Copy elzar.js to "/Company Home/Data Dictionary/Scripts"
 
 Add
 ```javascript
-<import resource="/Company Home/Data Dictionary/Scripts/jshelper.js">
+<import resource="/Company Home/Data Dictionary/Scripts/elzar.js">
 ```
 as the first line of your script.
 
